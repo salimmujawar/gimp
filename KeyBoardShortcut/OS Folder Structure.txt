@@ -1,0 +1,21 @@
+Possible folder structure based on your operating system...
+
+Custom Keyboard shortcuts are stored in one of Gimp's hidden directory under Linux: 
+
+/home/[username]/.gimp-2.8/menurc
+
+
+
+Under Windows, path varies according to version:
+
+C:\Documents and Settings\[Username]\.gimp-2.8\menurc under Windows XP.
+
+C:\Program Files\GIMP 2\etc\gimp\2.0\menurc under Windows 7.
+
+C:\Programmes\GIMP 2\etc\gimp\2.0\menurc under Windows 10.
+
+
+
+For MAC:
+
+users\user id\Library\Application Support\GIMP\2.10
